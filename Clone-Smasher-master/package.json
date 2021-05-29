@@ -11,6 +11,6 @@
   "dependencies": {
     "proxy-agent": "^3.0.3",
     "request": "^2.88.0",
-    "ws": "^6.2.0"
+    "ws": "^7.4.6"
   }
 }
